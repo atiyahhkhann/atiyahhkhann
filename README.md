@@ -1,144 +1,283 @@
-<div style="background-color:#000000; color:#FFFFFF; padding:32px; border:1px solid #A8323E;">
 
 <div align="center">
-<pre style="color:#D8D8D8; font-family:'Courier New',monospace; font-size:12px; line-height:1.1; text-align:left; overflow-x:auto;">
- █████╗  ████████╗ ██╗ ██╗   ██╗  █████╗  ██╗  ██╗
-██╔══██╗ ╚══██╔══╝ ██║ ╚██╗ ██╔╝ ██╔══██╗ ██║  ██║
-███████║    ██║    ██║  ╚███╔╝  ███████║ ███████║
-██╔══██║    ██║    ██║   ██╔╝   ██╔══██║ ██╔══██║
-██║  ██║    ██║    ██║   ██║    ██║  ██║ ██║  ██║
-╚═╝  ╚═╝    ╚═╝    ╚═╝   ╚═╝    ╚═╝  ╚═╝ ╚═╝  ╚═╝
-</pre>
-<p style="color:#A8323E; font-size:16px; letter-spacing:6px; margin:8px 0 16px 0;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-<h1 style="color:#FFFFFF; margin:0;">Atiyah Khan</h1>
-<h3 style="color:#D8D8D8; font-weight:normal; letter-spacing:2px; margin:8px 0 0 0;">AI / ML STUDENT · GENERATIVE AI</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:26070C,100:A8323E&height=220&section=header&text=ATIYAH%20KHAN&fontSize=55&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%2F%20ML%20STUDENT%20%7C%20GENERATIVE%20AI&descSize=15&descAlignY=67&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A8323E&center=true&vCenter=true&repeat=true&width=650&lines=Exploring+Artificial+Intelligence;Building+with+Generative+AI;Learning+Machine+Learning;Turning+Ideas+Into+Projects" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiyahhkhann)
+[![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-Student-A8323E?style=for-the-badge)](https://github.com/atiyahhkhann)
+[![Generative AI](https://img.shields.io/badge/Generative-AI-000000?style=for-the-badge&logo=google&logoColor=white)](https://github.com/atiyahhkhann)
+
+<br/>
+
+**BUILD. EXPERIMENT. LEARN. REPEAT.**
+
 </div>
 
-<table width="100%" style="border-collapse:collapse;">
+---
+
+## `01` — About Me
+
+<table>
 <tr>
-<td width="64%" valign="middle" style="color:#D8D8D8; padding:16px;">
-<p style="color:#D8D8D8;">Hi, I'm Atiyah Khan, an AI / ML student learning and building with generative AI and machine learning through hands-on projects.</p>
-<p style="color:#D8D8D8;"><strong style="color:#FFFFFF;">● Learning and sharing work in public</strong></p>
-<p style="color:#D8D8D8;"><a href="https://github.com/atiyahhkhann" style="color:#A8323E; text-decoration:none;">GitHub →</a></p>
+<td width="65%" valign="middle">
+
+### Hey, I'm Atiyah Khan! 👋
+
+I'm an **AI / ML student** exploring the world of Artificial Intelligence, Machine Learning, and Generative AI.
+
+I enjoy understanding how AI systems work, experimenting with new technologies, and turning concepts into practical projects.
+
+Currently focused on:
+
+- Exploring Generative AI and Large Language Models.
+- Understanding machine learning fundamentals.
+- Building AI-powered applications using JavaScript.
+- Experimenting with Google Gemini API.
+- Learning about AI security, gateways, and intelligent filtering.
+
+**My philosophy:** Learn by building, improve through experimentation, and share the journey.
+
 </td>
-<td width="36%" valign="middle" align="center" style="padding:16px;">
-<img src="https://avatars.githubusercontent.com/u/360152400?s=400&v=4" width="160" alt="Atiyah Khan GitHub avatar" style="border:2px solid #A8323E;" />
+<td width="35%" align="center" valign="middle">
+
+<img src="https://avatars.githubusercontent.com/u/360152400?s=400&v=4" width="190" alt="Atiyah Khan GitHub avatar"/>
+
+<br/>
+
+[GitHub Profile](https://github.com/atiyahhkhann)
+
 </td>
 </tr>
 </table>
 
-<h2 style="color:#FFFFFF; border-bottom:1px solid #A8323E; padding-bottom:8px;">What teams can evaluate quickly</h2>
+---
 
-<table width="100%" style="border-collapse:collapse;">
+## `02` — Current Focus
+
+<table>
 <tr>
-<td width="33%" valign="top" style="color:#D8D8D8; border:1px solid #555555; padding:14px;">
-<h3 style="color:#A8323E; margin:0 0 8px 0;">Role fit</h3>
-<p style="color:#D8D8D8; margin:0;">AI / ML Student · Generative AI · JavaScript · Gemini API</p>
+<td width="50%" valign="top">
+
+### Artificial Intelligence
+
+- Generative AI
+- Large Language Models
+- Prompt Engineering
+- Gemini API
+- AI-powered applications
+
 </td>
-<td width="33%" valign="top" style="color:#D8D8D8; border:1px solid #555555; padding:14px;">
-<h3 style="color:#A8323E; margin:0 0 8px 0;">Public proof</h3>
-<p style="color:#D8D8D8; margin:0;">2 repositories · 0 stars</p>
-</td>
-<td width="33%" valign="top" style="color:#D8D8D8; border:1px solid #555555; padding:14px;">
-<h3 style="color:#A8323E; margin:0 0 8px 0;">Momentum</h3>
-<p style="color:#D8D8D8; margin:0;">8 contributions in the last year</p>
+<td width="50%" valign="top">
+
+### Machine Learning
+
+- ML fundamentals
+- Classification algorithms
+- Naive Bayes
+- Pattern recognition
+- Intelligent filtering
+
 </td>
 </tr>
 </table>
 
-<h2 style="color:#FFFFFF; border-bottom:1px solid #A8323E; padding-bottom:8px;">Proof at a glance</h2>
+---
 
-<table width="100%" style="border-collapse:collapse;">
+## `03` — Featured Projects
+
+### <a href="https://github.com/atiyahhkhann/AI-Gateways-and-Firewalls">AI Gateways & Firewalls</a>
+
+<kbd>JavaScript</kbd> <kbd>Google Gemini API</kbd> <kbd>Machine Learning</kbd>
+
+An experimental project combining an AI Firewall and AI Gateway to introduce security controls and traffic management in front of an AI-powered chatbot.
+
+**System Architecture**
+
+```mermaid
+flowchart TD
+    A["User Prompt"] --> B["AI Firewall"]
+    B --> C["Rule Engine"]
+    C --> D["ML Classifier"]
+    D --> E["AI Gateway"]
+    E --> F["Rate Limiting"]
+    F --> G["Response Cache"]
+    G --> H["Model Routing"]
+    H --> I["Google Gemini API"]
+    I --> J["AI Response"]
+
+    style A fill:#26070C,color:#fff,stroke:#A8323E
+    style B fill:#26070C,color:#fff,stroke:#A8323E
+    style E fill:#26070C,color:#fff,stroke:#A8323E
+    style I fill:#26070C,color:#fff,stroke:#A8323E
+    style J fill:#26070C,color:#fff,stroke:#A8323E
+```
+
+**Key components**
+
+| Component | Function |
+|---|---|
+| Rule Engine | Detects known suspicious patterns |
+| ML Classifier | Classifies potentially harmful prompts |
+| Rate Limiter | Controls request frequency |
+| Response Cache | Reuses eligible cached responses |
+| Model Router | Routes requests to Gemini models |
+
+[![Explore Repository](https://img.shields.io/badge/EXPLORE_PROJECT-A8323E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiyahhkhann/AI-Gateways-and-Firewalls)
+
+---
+
+### <a href="https://github.com/atiyahhkhann/GenAi-Notes">GenAI Notes</a>
+
+<kbd>Generative AI</kbd> <kbd>Learning Resources</kbd> <kbd>Infographics</kbd>
+
+A collection of self-written notes and visual learning resources covering Generative AI concepts.
+
+**Topics explored**
+
+- Generative AI fundamentals
+- Traditional AI vs Generative AI
+- How models learn patterns
+- Latent representations
+- From prompts to generated outputs
+
+[![Explore Notes](https://img.shields.io/badge/EXPLORE_NOTES-A8323E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atiyahhkhann/GenAi-Notes)
+
+---
+
+## `04` — Visual Knowledge Base
+
+<div align="center">
+
+### Learning Generative AI Through Visuals
+
+<table>
 <tr>
-<td width="25%" align="center" style="color:#D8D8D8; border-top:2px solid #A8323E; border-bottom:1px solid #555555; padding:14px;">
-<p style="color:#FFFFFF; font-size:24px; margin:0;">2</p>
-<p style="color:#D8D8D8; margin:4px 0 0 0;">Repositories</p>
+<td width="50%" align="center">
+
+**Generative AI Workflow**
+
+<a href="https://raw.githubusercontent.com/atiyahhkhann/GenAi-Notes/main/images/Generative%20AI%20Workflow%20Infographic.png">
+<img src="https://raw.githubusercontent.com/atiyahhkhann/GenAi-Notes/main/images/Generative%20AI%20Workflow%20Infographic.png" width="100%" alt="Generative AI workflow"/>
+</a>
+
 </td>
-<td width="25%" align="center" style="color:#D8D8D8; border-top:2px solid #A8323E; border-bottom:1px solid #555555; padding:14px;">
-<p style="color:#FFFFFF; font-size:24px; margin:0;">0</p>
-<p style="color:#D8D8D8; margin:4px 0 0 0;">Stars</p>
+<td width="50%" align="center">
+
+**Traditional AI vs Generative AI**
+
+<a href="https://raw.githubusercontent.com/atiyahhkhann/GenAi-Notes/main/images/Traditional%20AI%20vs%20Generative%20AI%20Infographic.png">
+<img src="https://raw.githubusercontent.com/atiyahhkhann/GenAi-Notes/main/images/Traditional%20AI%20vs%20Generative%20AI%20Infographic.png" width="100%" alt="Traditional AI versus Generative AI"/>
+</a>
+
 </td>
-<td width="25%" align="center" style="color:#D8D8D8; border-top:2px solid #A8323E; border-bottom:1px solid #555555; padding:14px;">
-<p style="color:#FFFFFF; font-size:24px; margin:0;">8</p>
-<p style="color:#D8D8D8; margin:4px 0 0 0;">Contributions</p>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**Training Patterns into Latent Knowledge**
+
+<a href="https://raw.githubusercontent.com/atiyahhkhann/GenAi-Notes/main/images/Training%20Patterns%20into%20Latent%20Knowledge.png">
+<img src="https://raw.githubusercontent.com/atiyahhkhann/GenAi-Notes/main/images/Training%20Patterns%20into%20Latent%20Knowledge.png" width="100%" alt="Training patterns into latent knowledge"/>
+</a>
+
 </td>
-<td width="25%" align="center" style="color:#D8D8D8; border-top:2px solid #A8323E; border-bottom:1px solid #555555; padding:14px;">
-<p style="color:#FFFFFF; font-size:24px; margin:0;">0</p>
-<p style="color:#D8D8D8; margin:4px 0 0 0;">Followers</p>
+<td width="50%" align="center">
+
+**From Prompt to Polished Possibilities**
+
+<a href="https://raw.githubusercontent.com/atiyahhkhann/GenAi-Notes/main/images/From%20Prompt%20to%20Polished%20Possibilities.png">
+<img src="https://raw.githubusercontent.com/atiyahhkhann/GenAi-Notes/main/images/From%20Prompt%20to%20Polished%20Possibilities.png" width="100%" alt="From prompt to polished possibilities"/>
+</a>
+
 </td>
 </tr>
 </table>
 
-<h2 style="color:#FFFFFF; border-bottom:1px solid #A8323E; padding-bottom:8px;">Selected work</h2>
-
-<table width="100%" style="border-collapse:collapse;">
-<tr>
-<td width="58%" valign="top" style="color:#D8D8D8; border:1px solid #555555; padding:16px;">
-<p style="color:#D8D8D8; margin:0 0 10px 0;">Request flow in the demo:</p>
-<pre style="color:#D8D8D8; font-family:'Courier New',monospace; font-size:12px; line-height:1.4; overflow-x:auto; margin:0;">
-You → [ AI FIREWALL: Rule Engine → ML Classifier ]
-     → [ AI GATEWAY: Rate Limit → Cache → Routing ] → Gemini AI
-</pre>
-</td>
-<td width="42%" valign="top" style="color:#D8D8D8; border:1px solid #555555; padding:16px;">
-<h3 style="color:#FFFFFF; margin:0 0 8px 0;"><a href="https://github.com/atiyahhkhann/AI-Gateways-and-Firewalls" style="color:#A8323E; text-decoration:none;">AI-Gateways-and-Firewalls</a></h3>
-<p style="color:#D8D8D8;">A small, self-contained demo that puts a security layer (AI Firewall) and a traffic manager (AI Gateway) in front of a chatbot powered by Google Gemini.</p>
-<p style="color:#D8D8D8;"><sub style="color:#D8D8D8;">JavaScript · ★ 0 · ⎇ 0</sub></p>
-<p style="color:#D8D8D8;"><a href="https://github.com/atiyahhkhann/AI-Gateways-and-Firewalls" style="color:#A8323E; text-decoration:none;">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%" style="border-collapse:collapse;">
-<tr>
-<td width="50%" valign="top" style="color:#D8D8D8; border:1px solid #555555; padding:14px;">
-<h3 style="color:#FFFFFF; margin:0 0 8px 0;"><a href="https://github.com/atiyahhkhann/GenAi-Notes" style="color:#A8323E; text-decoration:none;">GenAi-Notes</a></h3>
-<p style="color:#D8D8D8;">Self-written notes for learning GenAi.</p>
-<p style="color:#D8D8D8;"><sub style="color:#D8D8D8;">★ 0 · ⎇ 0</sub></p>
-</td>
-<td width="50%" valign="top" style="color:#D8D8D8; border:1px solid #555555; padding:14px;">
-<h3 style="color:#D8D8D8; margin:0 0 8px 0;">All repositories</h3>
-<p style="color:#D8D8D8;">Explore the full public profile on GitHub.</p>
-<p style="color:#D8D8D8;"><a href="https://github.com/atiyahhkhann?tab=repositories" style="color:#A8323E; text-decoration:none;">View repositories →</a></p>
-</td>
-</tr>
-</table>
-
-<h2 style="color:#FFFFFF; border-bottom:1px solid #A8323E; padding-bottom:8px;">Technical toolkit</h2>
-
-<div align="center" style="border:1px solid #555555; background-color:#000000; padding:18px; color:#D8D8D8;">
-<p style="margin:0 0 12px 0;">
-<span style="display:inline-block; border:1px solid #A8323E; color:#FFFFFF; padding:6px 12px; margin:4px;">JavaScript</span>
-<span style="display:inline-block; border:1px solid #555555; color:#FFFFFF; padding:6px 12px; margin:4px;">CSS</span>
-<span style="display:inline-block; border:1px solid #555555; color:#FFFFFF; padding:6px 12px; margin:4px;">HTML</span>
-<span style="display:inline-block; border:1px solid #A8323E; color:#FFFFFF; padding:6px 12px; margin:4px;">Google Gemini API</span>
-</p>
-<p style="color:#D8D8D8; margin:0;">Focus areas: generative AI · machine-learning classifiers · AI gateways · prompt routing</p>
-<p style="color:#D8D8D8; margin:8px 0 0 0;"><sub style="color:#D8D8D8;">Languages and tools verified from public repositories</sub></p>
 </div>
 
-<h2 style="color:#FFFFFF; border-bottom:1px solid #A8323E; padding-bottom:8px;">Consistency signal</h2>
+---
 
-<div align="center" style="border:1px solid #555555; background-color:#000000; padding:18px; color:#D8D8D8;">
-<p style="color:#FFFFFF; font-size:26px; margin:0;">8</p>
-<p style="color:#D8D8D8; margin:4px 0 10px 0;">contributions in the last year</p>
-<p style="color:#D8D8D8; margin:0;"><a href="https://github.com/users/atiyahhkhann/contributions" style="color:#A8323E; text-decoration:none;">View contribution graph →</a></p>
+## `05` — Technical Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+
+### AI / ML & Tools
+
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-A8323E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge" />
+
+### Areas of Interest
+
+<img src="https://img.shields.io/badge/LLMs-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Security-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Gateways-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/ML%20Classification-000000?style=flat-square" />
+
 </div>
 
-<hr style="border:0; border-top:1px solid #555555; margin:28px 0;" />
+---
 
-<table width="100%" style="border-collapse:collapse;">
-<tr>
-<td width="62%" valign="middle" style="color:#D8D8D8; padding:8px;">
-<h2 style="color:#FFFFFF; border:0; margin:0 0 8px 0;">Let's talk AI / ML</h2>
-<p style="color:#D8D8D8; margin:0;">Open to learning, collaborating, and building useful AI projects.</p>
-</td>
-<td width="38%" valign="middle" align="right" style="color:#D8D8D8; padding:8px;">
-<a href="https://github.com/atiyahhkhann" style="color:#A8323E; text-decoration:none;">GitHub →</a>
-</td>
-</tr>
-</table>
+## `06` — GitHub Analytics
 
-<p align="center" style="color:#555555; margin-top:24px;">Atiyah Khan · AI / ML Student</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=atiyahhkhann&show_icons=true&hide_border=true&bg_color=000000&title_color=A8323E&icon_color=A8323E&text_color=D8D8D8&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiyahhkhann&layout=compact&hide_border=true&bg_color=000000&title_color=A8323E&text_color=D8D8D8" />
+
+<br/><br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=atiyahhkhann&theme=dark&hide_border=true&background=000000&ring=A8323E&fire=A8323E&currStreakLabel=A8323E" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atiyahhkhann&bg_color=000000&color=D8D8D8&line=A8323E&point=A8323E&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## `07` — Let's Connect
+
+<div align="center">
+
+### Ideas become better when shared.
+
+I'm interested in learning, collaborating, experimenting, and building useful AI-powered applications.
+
+<br/>
+
+<a href="https://github.com/atiyahhkhann">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-A8323E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+```bash
+$ whoami
+Atiyah Khan
+
+$ current_status
+Learning | Experimenting | Building
+
+$ next_objective
+Build something meaningful with AI.
+```
+
+<br/>
+
+**Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8323E,100:000000&height=110&section=footer" width="100%" />
 
 </div>
